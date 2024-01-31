@@ -15,8 +15,8 @@ function Navbar() {
 
 
                     <div className='flex gap-4 justify-center items-center'>
-                        <Link to="/produto" className='font-semibold'>Produto</Link>
-                        <Link to="/categoria" className='font-semibold'>Categoria</Link>
+                        <Link to="/produto" className='font-semibold'>Produtos</Link>
+                        <Link to="/categorias" className='font-semibold'>Categorias</Link>
                         <Link to="/cadastroCategoria" className='font-semibold'>Cadastrar categoria</Link>
                     </div>
                 </div>
